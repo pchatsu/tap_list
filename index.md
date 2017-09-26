@@ -36,3 +36,6 @@
 
 ## 北沢小西
 <a class="twitter-timeline" data-width="400" data-height="500" data-theme="light" data-link-color="#19CF86" href="https://twitter.com/lskonishi">Tweets by deguchiya1</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+## 田中屋の人
+<a class="twitter-timeline" data-width="400" data-height="500" data-theme="light" data-link-color="#19CF86" href="https://twitter.com/chancology">Tweets by deguchiya1</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
